@@ -1,0 +1,27 @@
+
+entities = []
+entities[0] = Floor
+entities[1] = Wall
+entities[2] = Door
+entities[3] = Door2
+entities[4] = Bed 
+entities[5] = Computer
+entities[6] = Kitchen
+entities[7] = Couch
+entities[8] = Flag
+entities[9] = Agent
+entities[10] = FalseDoor
+entities[11] = ToStreet
+entities[12] = ToHall
+entities[13] = Wall2
+entities[14] = FalseDoor2
+entities[15] = HornSign
+entities[16] = Robot
+entities[17] = Court
+entities[18] = Wall3
+entities[19] = Robot2
+entities[20] = BarDoor
+entities[21] = DoorToStreet
+entities[22] = PoolTable
+entities[23] = Addict
+entities[24] = Nurse
